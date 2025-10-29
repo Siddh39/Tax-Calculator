@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|c:\\umang\\learning\u0026practice\\c#\\taxcalculator\\resource\\resource1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|solutionrelative:resource\\resource1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|c:\\umang\\learning\u0026practice\\c#\\taxcalculator\\resource\\errormessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|solutionrelative:resource\\errormessages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|c:\\umang\\learning\u0026practice\\c#\\taxcalculator\\model\\slablimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|solutionrelative:model\\slablimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|c:\\umang\\learning\u0026practice\\c#\\taxcalculator\\class\\printdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|solutionrelative:class\\printdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|c:\\umang\\learning\u0026practice\\c#\\taxcalculator\\class\\taxslabclassification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|solutionrelative:class\\taxslabclassification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|c:\\umang\\learning\u0026practice\\c#\\taxcalculator\\class\\taxcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|solutionrelative:class\\taxcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|c:\\umang\\learning\u0026practice\\c#\\taxcalculator\\class\\getdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F8F874-7E9F-4634-94B9-FFD2D50357FD}|TaxCalculator.csproj|solutionrelative:class\\getdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E4E678-2F18-4296-84C2-0E971415B423}|..\\MyTest1\\TaxCalculatorTest.csproj|c:\\umang\\learning\u0026practice\\c#\\mytest1\\taxcalculationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E4E678-2F18-4296-84C2-0E971415B423}|..\\MyTest1\\TaxCalculatorTest.csproj|c:\\umang\\learning\u0026practice\\c#\\mytest1\\getdetailtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E4E678-2F18-4296-84C2-0E971415B423}|..\\MyTest1\\TaxCalculatorTest.csproj|c:\\umang\\learning\u0026practice\\c#\\mytest1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Resource\\Resource1.resx",
+              "RelativeDocumentMoniker": "Resource\\Resource1.resx",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Resource\\Resource1.resx",
+              "RelativeToolTip": "Resource\\Resource1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-31T05:22:23.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintDetail.cs",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Class\\PrintDetail.cs",
+              "RelativeDocumentMoniker": "Class\\PrintDetail.cs",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Class\\PrintDetail.cs",
+              "RelativeToolTip": "Class\\PrintDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:37:13.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SlabLimits.cs",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Model\\SlabLimits.cs",
+              "RelativeDocumentMoniker": "Model\\SlabLimits.cs",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Model\\SlabLimits.cs",
+              "RelativeToolTip": "Model\\SlabLimits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:36:58.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaxCalculation.cs",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Class\\TaxCalculation.cs",
+              "RelativeDocumentMoniker": "Class\\TaxCalculation.cs",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Class\\TaxCalculation.cs",
+              "RelativeToolTip": "Class\\TaxCalculation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:36:52.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetDetail.cs",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Class\\GetDetail.cs",
+              "RelativeDocumentMoniker": "Class\\GetDetail.cs",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Class\\GetDetail.cs",
+              "RelativeToolTip": "Class\\GetDetail.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:36:44.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorMessages.resx",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Resource\\ErrorMessages.resx",
+              "RelativeDocumentMoniker": "Resource\\ErrorMessages.resx",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Resource\\ErrorMessages.resx",
+              "RelativeToolTip": "Resource\\ErrorMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-31T04:36:40.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxSlabClassification.cs",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Class\\TaxSlabClassification.cs",
+              "RelativeDocumentMoniker": "Class\\TaxSlabClassification.cs",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\TaxCalculator\\Class\\TaxSlabClassification.cs",
+              "RelativeToolTip": "Class\\TaxSlabClassification.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:10:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\MyTest1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\MyTest1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\MyTest1\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\MyTest1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:09:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetDetailTest.cs",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\MyTest1\\GetDetailTest.cs",
+              "RelativeDocumentMoniker": "..\\MyTest1\\GetDetailTest.cs",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\MyTest1\\GetDetailTest.cs",
+              "RelativeToolTip": "..\\MyTest1\\GetDetailTest.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:09:22.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaxCalculationTest.cs",
+              "DocumentMoniker": "C:\\Umang\\Learning\u0026Practice\\C#\\MyTest1\\TaxCalculationTest.cs",
+              "RelativeDocumentMoniker": "..\\MyTest1\\TaxCalculationTest.cs",
+              "ToolTip": "C:\\Umang\\Learning\u0026Practice\\C#\\MyTest1\\TaxCalculationTest.cs",
+              "RelativeToolTip": "..\\MyTest1\\TaxCalculationTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:09:19.675Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

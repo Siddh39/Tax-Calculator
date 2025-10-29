@@ -1,0 +1,16 @@
+2025-01-31T10:21:00.3249939+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-01-31T10:21:00.3395392+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-01-31T10:21:00.3406272+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-01-31T10:21:00.3406313+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 10:21:00.302
+2025-01-31T10:21:00.3422756+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 11692
+2025-01-31T10:21:00.3427847+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.12
+2025-01-31T10:21:00.3427993+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Private.CoreLib.dll
+2025-01-31T10:21:00.3428081+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-01-31T10:21:00.3428164+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Umang\Learning&Practice\C#\MyTest1\bin\Debug\net8.0\MyTest1.dll
+2025-01-31T10:21:00.3429824+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Umang\Learning&Practice\C#\MyTest1\bin\Debug\net8.0\Log --results-directory C:\Umang\Learning&Practice\C#\TaxCalculator\TestResults --client-port 57040'
+2025-01-31T10:21:00.3440046+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-01-31T10:21:00.3633244+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-01-31T10:21:00.3664002+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Umang\Learning&Practice\C#\MyTest1\bin\Debug\net8.0\MyTest1.testconfig.json' not found.
+2025-01-31T10:21:00.3675460+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-01-31T10:21:00.4876011+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-01-31T10:21:00.5641075+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\Umang\Learning&Practice\C#\MyTest1\bin\Debug\net8.0\MyTest1.dll (Workers: 16, Scope: MethodLevel)
